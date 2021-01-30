@@ -1,0 +1,29 @@
+.movie {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid;
+  height: 200px;
+  border: solid;
+}
+.movie-list {
+  display: flex;
+  width: 800px;
+  justify-content: space-around;
+  border: solid;
+  height: 600px;
+  flex-wrap: wrap;
+}
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 600px;
+  justify-content: space-around;
+  justify-content: center;
+}
+
+.addmovie {
+  height: 200px;
+  background-image: url("../123.jpg");
+}

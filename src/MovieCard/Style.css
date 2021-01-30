@@ -1,0 +1,25 @@
+.inputs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+}
+.movie-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.typingbar {
+  background-color: rgb(224, 233, 245);
+  border-radius: 6px;
+  width: 200px;
+  height: 35px;
+}
+.submitbtn {
+  height: 42px;
+  width: 80px;
+  background-color: rgb(136, 151, 233);
+  color: white;
+  border-radius: 7px;
+}
